@@ -18,4 +18,7 @@ Poster del proyecto:
 
 <img src="/Images/PosterConaiisi.png" />
 
-Link del evento: [Conaisi 2013](http://conaiisi.frc.utn.edu.ar/PostersAlumnos.htm)
+Link del evento: [Conaiisi 2013](http://conaiisi.frc.utn.edu.ar/PostersAlumnos.htm)
+
+Link del poster: [Poster Conaiisi 2013](http://conaiisi.frc.utn.edu.ar/PDFsParaPublicar/PostersAlumnos/posterCONAIISI.pdf)
+
