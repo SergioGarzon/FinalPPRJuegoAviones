@@ -10,7 +10,7 @@ Fue realizado para la materia Paradigmas de Programación de la carrera de Ingen
 
 Fue presentado en el 1er Congreso Nacional de Ingenieria Informatica / Sistemas de Información
 
-<img src="./Images/logoUtnFrc.png" />
+<img src="./Images/logoConaiisi.png" />
 
 <br />
 
@@ -18,4 +18,4 @@ Poster del proyecto:
 
 <img src="/Images/PosterConaiisi.png" />
 
-Link del evento: [![Conaisi 2013](http://conaiisi.frc.utn.edu.ar/PostersAlumnos.htm)
+Link del evento: [Conaisi 2013](http://conaiisi.frc.utn.edu.ar/PostersAlumnos.htm)
